@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    "W W",
+    "WWW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "item": "policeprison:straightjacket"
+  }
+}

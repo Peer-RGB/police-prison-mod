@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    " I",
+    "IS"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "policeprison:handcuff_key"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    "I I",
+    "WWW",
+    "W W"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:oak_planks"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "policeprison:restraint_chair"
+  }
+}

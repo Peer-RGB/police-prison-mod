@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    "IRI",
+    "IQI",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "policeprison:security_camera"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    " G",
+    "GS"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "policeprison:prison_key"
+  }
+}
