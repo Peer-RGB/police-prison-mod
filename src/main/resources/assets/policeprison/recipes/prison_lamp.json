@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:shaped",
+  "pattern": [
+    " I ",
+    "ITI",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "T": {
+      "item": "minecraft:torch"
+    }
+  },
+  "result": {
+    "item": "policeprison:prison_lamp"
+  }
+}
